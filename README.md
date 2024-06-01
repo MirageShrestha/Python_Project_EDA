@@ -1,4 +1,4 @@
-# Python_Projects
+# Python_Project - EDA
 Exploratory Sales Analysis
 Project Learnings:
 Performed Data Cleaning and manipulation
